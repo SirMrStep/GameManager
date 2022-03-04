@@ -1,0 +1,7 @@
+name: GameManager
+main: me.steep.gamemanager.GameManager
+version: 0.0.1
+api-version: 1.8
+commands:
+  game:
+    description: GameManager command epic sus among us

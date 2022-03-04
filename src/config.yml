@@ -1,0 +1,7 @@
+# GameManager v0.0.1 Made by Steep
+
+# the name of the world to copy and generate as game world
+world-to-copy: world
+
+# the number of game worlds that get created if all game worlds are full (this is so we don't take up resources for create a world every time a game starts)
+idle-game-worlds: 3
